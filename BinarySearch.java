@@ -2,7 +2,7 @@ package concepts;
 import java.util.Scanner;
 
 
-public class Binarysearch {
+public class BinarySearch {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
